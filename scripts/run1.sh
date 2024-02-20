@@ -1,0 +1,40 @@
+# lab note 1-0
+# lab note 1-1
+# lab note 1-2
+# lab note 1-3
+# lab note 1-4
+# lab note 1-5
+# lab note 1-6
+# lab note 1-7
+# lab note 1-8
+# lab note 1-9
+V1X0=0
+V1X1=1
+V1X2=2
+V1X3=3
+V1X4=4
+V1X5=5
+V1X6=6
+V1X7=7
+V1X8=8
+V1X9=9
+V1X10=10
+V1X11=11
+V1X12=12
+V1X13=13
+V1X14=14
+V1X15=15
+V1X16=16
+V1X17=17
+V1X18=18
+V1X19=19
+V1X20=20
+V1X21=21
+V1X22=22
+V1X23=23
+V1X24=24
+V1X25=25
+V1X26=26
+V1X27=27
+V1X28=28
+V1X29=29

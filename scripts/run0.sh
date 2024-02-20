@@ -1,0 +1,40 @@
+# lab note 0-0
+# lab note 0-1
+# lab note 0-2
+# lab note 0-3
+# lab note 0-4
+# lab note 0-5
+# lab note 0-6
+# lab note 0-7
+# lab note 0-8
+# lab note 0-9
+V0X0=0
+V0X1=1
+V0X2=2
+V0X3=3
+V0X4=4
+V0X5=5
+V0X6=6
+V0X7=7
+V0X8=8
+V0X9=9
+V0X10=10
+V0X11=11
+V0X12=12
+V0X13=13
+V0X14=14
+V0X15=15
+V0X16=16
+V0X17=17
+V0X18=18
+V0X19=19
+V0X20=20
+V0X21=21
+V0X22=22
+V0X23=23
+V0X24=24
+V0X25=25
+V0X26=26
+V0X27=27
+V0X28=28
+V0X29=29
